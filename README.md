@@ -1,2 +1,0 @@
-# AnanFarhat12
-computer_science_student
